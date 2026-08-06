@@ -15,7 +15,7 @@ Human
 - Bilingual (Native Turkish and C1 English)
 - Privacy Advocate
 
-## Interests:
+## Interests
 - Hardware Security
 - Reverse Engineering
 - Social Engineering
