@@ -1,4 +1,7 @@
-# No more than a human. No more than electrical charges in a vessel.
+# No more than electrical charges in a vessel.
+Human
+: A member of the primate genus Homo, especially a member of the species Homo sapiens, distinguished from other apes by a large brain and the capacity for speech. 
+: Not the leader of the universe.
 
 ## About me
 - Learning Cybersecurity
