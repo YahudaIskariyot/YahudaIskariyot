@@ -1,16 +1,21 @@
-## Hi there 👋
+# Not more than a human, not less than one either.
 
-<!--
-**YahudaIskariyot/YahudaIskariyot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- Learning Cybersecurity
+- Theology Debater
+- Natural and Social Sciences Nerd
+- Bilingual (Native Turkish and C1 English)
+- Privacy Advocate
 
-Here are some ideas to get you started:
+## Interests:
+- Hardware Security
+- Reverse Engineering
+- Social Engineering
+- Red-Teaming
+- Debate Tactics & Methodology
+- Psychology
+- Book Writing/Literature
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Knowledge
+- Beginner WebSec and NetSec enthusiast, Social Media OSINT investigator.
+- Basic robotics.
