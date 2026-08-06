@@ -1,4 +1,4 @@
-# Not more than a human, not less than one either.
+# No more than a human. No more than electrical charges in a vessel.
 
 ## About me
 - Learning Cybersecurity
